@@ -1,0 +1,33 @@
+{
+  "name": "ps-of-devbits",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@3rdweb/hooks": "^1.9.2",
+    "@3rdweb/react": "^1.9.3",
+    "@3rdweb/sdk": "^1.42.1",
+    "@sanity/client": "^5.4.0",
+    "@sanity/image-url": "^1.0.2",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^0.9.278",
+    "@thirdweb-dev/react": "^3.11.0",
+    "@thirdweb-dev/sdk": "^3.10.4",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "ethers": "^5.7.2",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-modal": "^3.16.1",
+    "styled-components": "^5.3.9"
+  }
+}
